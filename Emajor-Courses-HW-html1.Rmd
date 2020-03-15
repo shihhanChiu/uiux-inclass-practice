@@ -1,0 +1,20 @@
+---
+title: "Emajor-網頁自主學習"
+author: "Shihhan"
+date: "2020/3/11"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 例題一
+
+請寫一個html檔利用不同tags產生本章節的文字呈現效果。
+
+（Hints: https://www.w3schools.com/html/default.asp 裡的headings, list兩小節）
+
+
+## 例題二
+RStudio裡的R Markdown文件可以按Knit （File > Knit document）產生對應檔案但副檔名為.html的文件。請開啟一份新的R Markdown檔（File > New File > R Markdown）, 並knit它。請各自寫下head、body裡的children tags （無需列到grand children）

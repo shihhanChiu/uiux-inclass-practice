@@ -1,2 +1,2 @@
-# uiux-inclass-practice
+# Emajor-Courses-HW
  
